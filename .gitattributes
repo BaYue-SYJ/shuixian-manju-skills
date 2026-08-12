@@ -1,0 +1,16 @@
+# 统一换行符：仓库内以 LF 存储，检出时按各平台自动转换
+* text=auto
+
+# 明确按文本处理的文件
+*.md text
+*.json text
+*.mjs text
+*.js text
+*.ts text
+
+# 二进制资源不转换
+*.webp binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
