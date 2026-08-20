@@ -1,0 +1,9 @@
+{
+  "provider": "tongyi",
+  "endpoint": "https://dashscope.aliyuncs.com/api/v1/services/aigc/text2image/image-synthesis",
+  "apiKey": "<在此填入你的 API Key，或用环境变量 IMG_API_KEY / DASHSCOPE_API_KEY>",
+  "model": "wanx-v1",
+  "timeoutMs": 180000,
+  "style": "<auto>",
+  "size": "1280x720"
+}
