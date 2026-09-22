@@ -50,7 +50,12 @@ ai-drama-pipeline  → 调度上述五阶，强制每阶 validate 通过才进�
 ```
 
 每个创作 Skill 内含：`SKILL.md`（流程定义）、`scripts/`（零依赖 Node 脚本：chunk / merge / validate / render / seed 等）、`references/`（各趟 pass 的细规则）、`examples/`（自带样例与质量基准）。`ai-drama-pipeline` 内含：`SKILL.md`（编排流程）、`scripts/`（aggregate / gen-image / config 等调度与出图模块）、`scripts/CONFIG.md`（出图配置说明）。
+## ❤️ 致谢
 
+| 社区 | 说明 |
+| --- | --- |
+| [Linux.Do](https://linux.do) | 与社区分享、讨论和跟踪发展 —— 认可 LINUX DO 社区 |
 ## License
 
 Apache-2.0 —— 见 [LICENSE](./LICENSE)。
+
