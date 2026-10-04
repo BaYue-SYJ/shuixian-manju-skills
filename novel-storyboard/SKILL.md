@@ -166,7 +166,7 @@ novel-storyboard → storyboard.json （怎么拍：镜头、首帧、批次）
 node {baseDir}/scripts/selftest.mjs
 ```
 
-183 项断言，不调模型、不花额度。16 道质量门每一道都有击穿用例。改完脚本先跑这个。
+185 项断言，不调模型、不花额度。16 道质量门每一道都有击穿用例。改完脚本先跑这个。
 
 ## 自带样例
 
